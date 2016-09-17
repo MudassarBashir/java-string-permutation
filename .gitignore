@@ -1,0 +1,20 @@
+# Ignore Intellij IDEA configs
+.idea/
+**/out
+**/*.iml
+
+# Ignore Eclipse configs
+**/.metadata
+**/Servers
+**/.settings
+**/.project
+**/.classpath
+**/.springBeans
+**/*.jar
+**/.checkstyle
+**/bin
+**/target
+**.classpath
+**.project
+**.prefs
+src/test/
